@@ -3,8 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@atria-design-system/button": "file:atria-design-system-button-1.0.0.tgz",
-    "@atria-design-system/theme": "file:atria-design-system-theme-1.0.0.tgz",
     "@stencil/react-output-target": "^0.8.2",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
